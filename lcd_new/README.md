@@ -1,1 +1,1 @@
-#lcd_new
+The reason I came upon the hd44780.h library is when I found that my I2C lcd wasn't performing that well so, I did what any person would do find a solution. Found that this library was awsome for developing different projects that I'm going to share with yall.
